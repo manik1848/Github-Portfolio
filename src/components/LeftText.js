@@ -4,7 +4,7 @@ import manik from "../assets/Image/Manik-resume-image-removebg-preview.png"
 
 function LeftText() {
 	return (
-		<div className='leftText' style={{margin:'0px 20px',gap:'40px'}}>
+		<div className='leftText' style={{margin:'0px 20px'}}>
 			<div className='flex-fix'>
 				<h2>Hi, </h2>
 				<span className='preTitle'>I am </span>
